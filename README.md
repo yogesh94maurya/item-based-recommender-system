@@ -1,6 +1,5 @@
-Make up assignment 3
-Yogesh Maurya - 1001520339
 
+<strong>Assignment 3</strong>
 
 <strong>Libraries used</strong>
 
